@@ -18,7 +18,7 @@ npm install next-auth
 ```
 
 :::info
-If you are using TypeScript, NextAuth.js comes with its types definitions within the package. To learn more about TypeScript for `next-auth`, check out the [TypeScript documentation](/getting-started/typescript)
+If you are using TypeScript, NextAuth.js comes with its type definitions within the package. To learn more about TypeScript for `next-auth`, check out the [TypeScript documentation](/getting-started/typescript)
 :::
 
 
